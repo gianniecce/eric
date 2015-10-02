@@ -1,5 +1,6 @@
 test
  
+2
 require(graphics)
 require(foreign)
 require(psych)
